@@ -4,6 +4,7 @@
   "description": "Inventory Management (Backend)",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon --inspect app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/vietlevan532/IM-Backend/issues"
   },
-  "homepage": "https://github.com/vietlevan532/IM-Backend#readme"
+  "homepage": "https://github.com/vietlevan532/IM-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
