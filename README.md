@@ -1,1 +1,1 @@
-# InventoryManagement-NodeJS-ReactJS-MongoDB-
+# IM-Backend (Inventory Management using ExpressJS framework and database use nosql MongoDB)

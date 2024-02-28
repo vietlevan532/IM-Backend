@@ -1,0 +1,19 @@
+{
+  "name": "im-backend",
+  "version": "1.0.0",
+  "description": "Inventory Management (Backend)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietlevan532/IM-Backend.git"
+  },
+  "author": "Ze Zan Ziet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietlevan532/IM-Backend/issues"
+  },
+  "homepage": "https://github.com/vietlevan532/IM-Backend#readme"
+}
